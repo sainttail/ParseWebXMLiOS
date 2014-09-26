@@ -1,0 +1,9 @@
+//
+//  ParseXMLWeb-prefix.pch
+//  ParseXMLWeb
+//
+//  Created by Eakawat Tantamjarik on 9/26/2557 BE.
+//  Copyright (c) 2557 Codium. All rights reserved.
+//
+
+#import <Foundation/Foundation.h>
